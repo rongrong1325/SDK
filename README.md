@@ -73,3 +73,8 @@ If no device is shown in the device list, you can click "Add Device", select "Sc
 
 - The full version Demo
   Currently support device control, message push, add device (distribution network), home module
+
+<p align="center"  >
+<img width=200 src="https://github.com/rongrong1325/SDK/blob/main/%E9%9D%A2%E6%9D%BF%E6%88%AA%E5%9B%BE.png" >
+<p align="center">Intelligent lamp</p>
+</p>
